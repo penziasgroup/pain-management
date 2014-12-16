@@ -25,4 +25,12 @@ a:visited {
   display:block;
 }
 
+#block-views-schedule-block.block {
+  margin-bottom:0;
+}
 
+#block-block-3 {
+  padding:10px;
+  background:#FFF;
+  border:1px solid #CCC;
+}
